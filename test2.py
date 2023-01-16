@@ -4,4 +4,6 @@
 
 # this is a bad file.
 
-# this is a worse file
+# this is a worse file.
+
+# this is a beautiful file.
